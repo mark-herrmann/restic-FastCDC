@@ -1,3 +1,5 @@
+This is a fork of https://github.com/wxiacode/restic-FastCDC which has changed module name/path to be able to install it.
+
 The original package `chunker` implements content-defined-chunking (CDC) based on a
 rolling Rabin Hash.
 
